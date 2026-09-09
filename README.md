@@ -104,5 +104,3 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 - National agricultural data platform
 
 ---
-
-## 📁 Repository Structure
