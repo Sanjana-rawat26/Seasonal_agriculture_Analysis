@@ -85,6 +85,26 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 - **Kharif** has highest disease risk (52.3%)
 - **Rabi** has lowest disease risk (44.8%)
 - **Sugarcane** highest risk (56.7%), **Maize** lowest (46.3%)
+---
+## 📊 Power BI Dashboard
+
+![Power BI Dashboard](<img width="1705" height="722" alt="Seasonal_agricultural_dashboard" src="https://github.com/user-attachments/assets/8ce19513-f793-4a66-90ba-9bc2194513e8" />
+)
+
+### Dashboard Features:
+- **3 KPI Cards:** Total Profit, Average Yield, Total Records
+- **4 Visualizations:** 
+  - Profit by Season
+  - Profit by Crop
+  - Yield by Irrigation
+  - Crop-Season Profit Heatmap
+- **Interactive Filters:** Season, State, Crop Type
+
+### Key Dashboard Insights:
+1. Rabi season generates highest profit (₹526.8M)
+2. Chilli is the most profitable crop
+3. Drip irrigation gives best yield
+4. Crop performance varies significantly by season
 
 ---
 
