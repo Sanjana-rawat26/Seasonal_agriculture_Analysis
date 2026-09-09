@@ -90,8 +90,8 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 
 ## 💡 Recommendations
 ✅ **Farmers:** Prioritize Chilli + Drip Irrigation for maximum profit|
-✅ **Planners:** Promote Rabi season for higher profitability
-✅ **Policymakers:** Support water conservation in Kharif, optimize fertilizer in Zaid
+✅ **Planners:** Promote Rabi season for higher profitability |
+✅ **Policymakers:** Support water conservation in Kharif, optimize fertilizer in Zaid |
 ✅ **All:** Implement pest management during high-risk seasons
 
 ---
