@@ -88,8 +88,8 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 ---
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](<img width="1705" height="722" alt="Seasonal_agricultural_dashboard" src="https://github.com/user-attachments/assets/8ce19513-f793-4a66-90ba-9bc2194513e8" />
-)
+![Power BI Dashboard](<<img width="1491" height="860" alt="Screenshot 2026-09-10 075423" src="https://github.com/user-attachments/assets/2b47d924-9828-4900-bcbf-c1dd7f251a03" />
+>)
 
 ### Dashboard Features:
 - **3 KPI Cards:** Total Profit, Average Yield, Total Records
