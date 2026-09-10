@@ -49,8 +49,8 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 ### 1. Seasonal Performance Dashboard
 *4-in-1 view of profit, yield, crop-profit, and resource usage*
 
-![Seasonal Performance Dashboard](<img width="1207" height="573" alt="profit vs season " src="https://github.com/user-attachments/assets/a8e8d82a-dab2-4bc8-9560-5e7a37bb8e97" />
-)
+<img width="1207" height="573" alt="profit vs season " src="https://github.com/user-attachments/assets/a8e8d82a-dab2-4bc8-9560-5e7a37bb8e97" />
+
 
 **What it shows:**
 - **Top Left:** Total Profit by Season (Rabi highest at ₹526.8M)
@@ -63,9 +63,7 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 ### 2. Correlation Heatmaps
 *Environmental factors vs yield by season*
 
-![Correlation Heatmaps](<img width="1522" height="593" alt="Screenshot 2026-09-09 093529" src="https://github.com/user-attachments/assets/d57fdf5d-307b-42e0-a199-6990b219f8b1" />
-)
-)
+<img width="1522" height="593" alt="Screenshot 2026-09-09 093529" src="https://github.com/user-attachments/assets/d57fdf5d-307b-42e0-a199-6990b219f8b1" />
 
 **Key Insights:**
 - **Kharif:** Rainfall helps (+0.42), Temperature hurts (-0.38)
@@ -78,8 +76,7 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 ### 3. Disease Risk Analysis
 *Risk patterns across seasons and crops*
 
-(<img width="568" height="442" alt="Screenshot 2026-09-09 094018" src="https://github.com/user-attachments/assets/34a9fa5f-1afe-448a-a6fa-c2b385a7e0c7" />
-)
+<img width="568" height="442" alt="Screenshot 2026-09-09 094018" src="https://github.com/user-attachments/assets/34a9fa5f-1afe-448a-a6fa-c2b385a7e0c7" />
 
 **Key Insights:**
 - **Kharif** has highest disease risk (52.3%)
@@ -88,8 +85,8 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 ---
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](<<img width="1491" height="860" alt="Screenshot 2026-09-10 075423" src="https://github.com/user-attachments/assets/2b47d924-9828-4900-bcbf-c1dd7f251a03" />
->)
+<img width="1491" height="860" alt="Screenshot 2026-09-10 075423" src="https://github.com/user-attachments/assets/2b47d924-9828-4900-bcbf-c1dd7f251a03" />
+
 
 ### Dashboard Features:
 - **3 KPI Cards:** Total Profit, Average Yield, Total Records
