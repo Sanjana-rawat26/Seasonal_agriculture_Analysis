@@ -78,7 +78,7 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 ### 3. Disease Risk Analysis
 *Risk patterns across seasons and crops*
 
-![Disease Risk Analysis](<img width="568" height="442" alt="Screenshot 2026-09-09 094018" src="https://github.com/user-attachments/assets/34a9fa5f-1afe-448a-a6fa-c2b385a7e0c7" />
+(<img width="568" height="442" alt="Screenshot 2026-09-09 094018" src="https://github.com/user-attachments/assets/34a9fa5f-1afe-448a-a6fa-c2b385a7e0c7" />
 )
 
 **Key Insights:**
