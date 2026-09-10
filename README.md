@@ -9,12 +9,43 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 - Analyze how environmental factors (rainfall, temperature) impact crop yields
 - Provide data-driven recommendations for farmers and agricultural planners
 
+## ❓ Problem Statement
+
+In the agricultural sector, maximizing profitability while efficiently using resources like water, fertilizer, and land is a critical challenge. Farmers and agribusinesses lack data-driven insights to make informed decisions about which crops to grow, which seasons to prioritize, and how to optimize resource usage. This project addresses this gap by analyzing seasonal agricultural data to provide actionable recommendations.
+
 ## 📊 Dataset
 - **Records:** 4,000 farm entries
 - **Features:** 28 parameters
 - **Crops:** 8 types (Chilli, Cotton, Groundnut, Maize, Pulses, Rice, Sugarcane, Wheat)
 - **Seasons:** Kharif, Rabi, Zaid
 - **States:** Andhra Pradesh, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Punjab, Tamil Nadu, Telangana
+
+  ## 🧹 Data Cleaning Process
+
+1. **Data Inspection:** Used `df.info()`, `df.describe()`, and `df.shape` to understand the data structure (4,000 records × 28 columns).
+
+2. **Missing Value Identification:**
+   | Column | Missing Count | Percentage |
+   |--------|---------------|------------|
+   | Rainfall_mm | 48 | 1.2% |
+   | Soil_Moisture_pct | 40 | 1.0% |
+   | Yield_Tonnes_Ha | 32 | 0.8% |
+
+3. **Missing Value Handling:** Imputed missing values using the **median** of each column to minimize the impact of outliers.
+
+4. **Duplicate Check:** No duplicate records were found in the dataset.
+
+5. **Export:** The cleaned dataset was saved as `seasonal_agriculture_cleaned.csv`.
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+The EDA focused on:
+- **Descriptive Statistics:** Mean, median, and spread of all numerical features
+- **Correlation Analysis:** Relationships between environmental factors and crop yield
+- **Seasonal Analysis:** Comparing profitability, yield, and resource usage across seasons
+- **Crop Analysis:** Identifying the most and least profitable crops
+- **Outlier Detection:** Identifying extreme values in profit and yield
+- **Disease Risk Analysis:** Understanding pest/disease patterns across seasons and crops
 
 ## 🔧 Technology Stack
 - **Language:** Python 3
@@ -121,3 +152,18 @@ This project analyzes **4,000 agricultural farm records** across **3 seasons** (
 - National agricultural data platform
 
 ---
+## ✅ Conclusion
+
+This project successfully analyzed 4,000 agricultural records to identify key patterns in seasonal profitability, crop performance, and resource efficiency. The findings reveal that the **Rabi season generates the highest total profit (₹526.8M)** , **Chilli is the most profitable crop**, and **Drip irrigation delivers the best yield efficiency**. These insights provide a clear, data-driven roadmap for farmers, planners, and policymakers to make informed decisions that enhance agricultural profitability and sustainability.
+
+---
+## 📁 Repository Contents
+
+| File | Description |
+|------|-------------|
+| `seasonal_agriculture.csv` | Original dataset |
+| `seasonal_agriculture_cleaned.csv` | Cleaned dataset |
+| `seasonal_agriculture.ipynb` | Jupyter Notebook with EDA |
+| `Seasonal Agricultural Performance Analysis.pptx` | Project presentation |
+| `Seasonal_Agriculture_Dashboard.pbix` | Power BI Dashboard file |
+| `README.md` | Project documentation |
